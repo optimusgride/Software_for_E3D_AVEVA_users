@@ -25,7 +25,7 @@ Note: The demo is limited by time. Purchase the full version to unlock the limit
 
 ## How to Buy
 1. Contact me at optimusgride@gmail.com or via GitHub Issues.
-2. Send payment via [PayPal to kersoniae@gmail.com]. For companies, the payment method is subject to negotiation. 
+2. Send payment via [PayPal to kersonia.e@gmail.com]. For companies, the payment method is subject to negotiation. 
 3. Once payment is confirmed, I’ll send you the full code/ with license key via email within 24 hours.
 
 ## Legal
@@ -33,4 +33,4 @@ Note: The demo is limited by time. Purchase the full version to unlock the limit
 - You are purchasing a single-user license unless otherwise stated.
 
 ## Contact
-For questions, open an issue in this repository or email me at [your-email@example.com].
+For questions, open an issue in this repository or email me at optimusgride@gmail.com.
