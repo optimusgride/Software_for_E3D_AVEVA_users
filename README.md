@@ -1,4 +1,4 @@
-# Software_for_E3D_AVEVA_users - For Sale
+# Software_for_E3D_AVEVA_users
 
 ## Overview
 Hello everyone, I’m excited to share with you my know-how solution I’ve developed called the " Software for external keyboard for E3D AVEVA users ".The "Software for External Keyboard for AVEVA E3D Users" functions as an external controller, complementing your mouse. It works seamlessly with all screen types and resolutions, helping designers significantly reduce mouse dependency and enhance overall workflow efficiency.This software can be utilized with your existing standard keyboard, provided it has unused ("free") buttons, or paired with an external programmable keyboard.Please note that the software is sold independently, without keyboards. However, upon request, I can supply compatible USB keyboards (with 3, 6, 9, or more buttons) sourced from AliExpress or Amazon. I do not manufacture these keyboards but can resell them for your convenience. I will be happy to see your feedback in my email optimusgride@gmail.com. You can use my software as it is like exe file or compile it by yourself from Python's script. The file size is approximately 14.3 MB.
