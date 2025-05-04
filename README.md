@@ -24,3 +24,7 @@ There is no Demo version.
 
 ## Contact
 For questions, open an issue in this repository or email me at optimusgride@gmail.com.
+
+## Download
+
+EXE file you can dowwnload by this link: https://drive.google.com/drive/folders/1Mc-gG2bVyqFLfQQmLbJmce2cg7e2DEMF?usp=drive_link
