@@ -20,7 +20,7 @@ There is no Demo version.
 
 ## Pricing
 - this version is absolutely for free using for private and commercial use. 
-- If you want to support my project, please do that in Patreon (link later)
+- to help fund my project, consider supporting me on Patreon, by the link:   https://patreon.com/Mydevelopments?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
 
 ## Contact
 For questions, open an issue in this repository or email me at optimusgride@gmail.com.
