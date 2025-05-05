@@ -28,3 +28,9 @@ For questions, open an issue in this repository or email me at optimusgride@gmai
 ## Download
 
 EXE file you can dowwnload by this link: https://drive.google.com/drive/folders/1Mc-gG2bVyqFLfQQmLbJmce2cg7e2DEMF?usp=drive_link
+
+
+## How to support my project
+
+To help fund my project or you want me to adapt my development for you, consider supporting me on Patreon: https://www.patreon.com/posts/boost-your-e3d-128114057?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link 
+or by direct transfer to PayPal: kersonia.e@gmail.com
